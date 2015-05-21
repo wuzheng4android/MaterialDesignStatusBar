@@ -11,7 +11,7 @@
         <item name="android:windowTranslucentStatus">true</item>
 
 
-2.在mainactivity的布局中的根标签下面设置如下参数
+2.在Activity的布局中的根标签下面设置如下参数
 
 <pre><code>
 android:fitsSystemWindows="true"
